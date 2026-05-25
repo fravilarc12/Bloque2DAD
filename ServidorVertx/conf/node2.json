@@ -1,0 +1,4 @@
+{
+  "p2p.port": 6001,
+  "p2p.seed.ip": "localhost:6000"
+}
